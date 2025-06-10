@@ -24,7 +24,3 @@ This project is created by EZZKN.
 - Shell (Bash)
 
 Feel free to contribute additional languages or improvements!
-
-## How to run
-
-For each language, navigate to the respective directory and run the script in your preferred environment.
