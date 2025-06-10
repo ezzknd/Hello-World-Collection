@@ -3,7 +3,7 @@
 This repository contains a collection of 'Hello, World!' programs written in various programming languages.
 
 ## Author
-This project is created by DAHKY.
+This project is created by EZZKN.
 
 ## Languages
 
